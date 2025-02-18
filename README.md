@@ -12,13 +12,16 @@ This project is a python based QR generator for my portfolio.
 
 To use this QR code generation, we need to have Python 3.x installed on our machine.
 
-# How it works?
+##How it works?
 
 The script constructs a URL to the QRServer API with the URL we want to encode as data. Then the API request include the color parameters for customizing the QR code.
 The script then downloads the generated QR code image and saves it as a PNG file.
 
-## Result:
-The QR code;
+## Result
+The QR code:
+
+
+
 ![image](https://github.com/user-attachments/assets/963218f5-a22e-4cb2-8f2a-19028cc0df56)
 
 
